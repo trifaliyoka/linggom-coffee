@@ -84,7 +84,7 @@
 							<h6 class="text-white text-uppercase">Now you can feel the Energy</h6>
 							<h1>
 								Start your day with <br>
-								a black Coffee				
+								a Linggom Coffe			
 							</h1>
 							<a href="#" class="primary-btn text-uppercase">Buat Pesanan</a>
 						</div>											
